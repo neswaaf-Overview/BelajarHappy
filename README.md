@@ -25,7 +25,7 @@ Aplikasi **Belajar Happy** berbasis Android yang dikembangkan menggunakan Kotlin
 
 | Belajar Huruf | Belajar Angka |
 |:---:|:---:|
-| <img src="huruf.png" width="250"> | <img src="angka.png" width="250"> |
+| <img src="angka.png" width="250"> | <img src="huruf.png" width="250"> |
 
 ## 👤 Pembuat
 
